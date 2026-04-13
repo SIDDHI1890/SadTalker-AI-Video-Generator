@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src='https://user-images.githubusercontent.com/4397546/229094115-862c747e-7397-4b54-ba4a-bd368bfe2e0f.png' width='500px'/>
@@ -173,7 +174,7 @@ Model explains:
   
 ##### Old version
 | Model | Description
-| :--- | :----------
+| 
 |checkpoints/auido2exp_00300-model.pth | Pre-trained ExpNet in Sadtalker.
 |checkpoints/auido2pose_00140-model.pth | Pre-trained PoseVAE in Sadtalker.
 |checkpoints/mapping_00229-model.pth.tar | Pre-trained MappingNet in Sadtalker.
